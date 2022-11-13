@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello </title>
+<title>Hello priti </title>
 </head>
 <body>
 
-<h1>Hell</h1>
+<h1>Hello priti </h1>
 <p>This is the first file in my new Git Repo.</p>
 
 </body>
