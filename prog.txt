@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello priti </title>
+<title>Hello priti aaav </title>
 </head>
 <body>
 
+<<<<<<< HEAD
 <h1>Hello priti </h1>
+=======
+<h1>Hello priti aarav</h1>
+>>>>>>> main
 <p>This is the first file in my new Git Repo.</p>
 
 </body>
